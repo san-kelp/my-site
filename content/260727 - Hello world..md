@@ -1,0 +1,1 @@
+The first thing they teach us when we learn coding is to print the statement 'hello world'. As a designer who ignored learning the tech ropes and is now faced with the reality of not knowing how to code in a code-centric design era; I am becoming obsolete. Masking this fear with curiosity; I move on.
